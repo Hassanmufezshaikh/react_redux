@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Available Scripts:
+Props is mandatory in redux to get the data from store containers 
+
 ### `npm start`
 
 Runs the app in the development mode.\
