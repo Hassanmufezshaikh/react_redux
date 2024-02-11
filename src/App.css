@@ -78,7 +78,8 @@
 .cartMove{
 /* position: absolute; */
 display: flex;
-padding-left: 50px;
+/* padding-left: 120px; */
+justify-content: center;
 }
 
 .cartCount {
